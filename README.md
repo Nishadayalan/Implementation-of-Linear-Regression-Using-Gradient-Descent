@@ -1,4 +1,4 @@
-[# Implementation-of-Linear-Regression-Using-Gradient-Descent
+# Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -109,4 +109,4 @@ print(f"Predicted value: {pre}")
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
-](https://github.com/Nishadayalan/Ex-5--AAI.git)
+
